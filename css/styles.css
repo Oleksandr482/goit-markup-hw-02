@@ -1,0 +1,13 @@
+:root {
+  --primary-text-color: #757575;
+  --title-text-colot: #212121;
+  --accent-color: #2196f3;
+  --address-link-color: rgba(255, 255, 255, 0.6);
+}
+
+body {
+  background-color: #fff;
+  color: var(--primary-text-color);
+}
+
+/* Хедер */
