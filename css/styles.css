@@ -75,6 +75,7 @@ li {
   font-weight: 900;
   font-size: 44px;
   line-height: 60px;
+  text-transform: uppercase;
 }
 
 .hero-button {
@@ -96,6 +97,7 @@ li {
   font-size: 14px;
   line-height: 16px;
   color: var(--title-text-colot);
+  text-transform: uppercase;
 }
 
 .title-activity {
@@ -159,4 +161,36 @@ li {
 .address-link {
   text-decoration: none;
   color: var(--address-link-color);
+}
+
+/* Портфоліо */
+.filters {
+}
+
+.filter-button {
+  background-color: var(--secondary-bg-color);
+  border-radius: 4px;
+  color: var(--title-text-colot);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.filter-button:hover,
+.filter-button:focus {
+  background-color: var(--accent-color);
+  color: #ffffff;
+}
+
+.projects {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.project-title {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 36px;
+  color: var(--title-text-colot);
 }
