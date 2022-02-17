@@ -11,7 +11,7 @@
 body {
   background-color: var(--body-color);
   color: var(--primary-text-color);
-  font-family: roboto;
+  font-family: 'roboto', sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -35,7 +35,7 @@ li {
 .logo-header {
   color: #000000;
   text-decoration: none;
-  font-family: Raleway;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
@@ -153,7 +153,7 @@ li {
 .logo-footer {
   color: #ffffff;
   text-decoration: none;
-  font-family: Raleway;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
