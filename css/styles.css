@@ -214,3 +214,8 @@ body {
   line-height: 2;
   letter-spacing: 0.06em;
 }
+
+.projects-link {
+  color: var(--primary-text-color);
+  text-decoration: none;
+}
